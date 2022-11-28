@@ -24,6 +24,8 @@ Get the active developer badge on discord!
 
  ![image](https://user-images.githubusercontent.com/107618076/204293898-3aca1af1-a0aa-4d5e-9ea0-bbbed54edd5d.png)
 
+- Run the `main.py` script then put the bot token **Do not turn it Off**
+
 - Now go to **OAuth2** > **URL Generator**
 
 ![image](https://user-images.githubusercontent.com/107618076/204294133-c0722059-e323-4397-8f32-728e31469932.png)
@@ -36,3 +38,16 @@ Get the active developer badge on discord!
 
 ![image](https://user-images.githubusercontent.com/107618076/204296115-517d1c35-21b0-4992-b7c5-6ec97d71bd81.png)
 
+- Now go to the choosed server and run command `/help`
+
+![image](https://user-images.githubusercontent.com/107618076/204297090-95c8af99-785b-4967-94ad-72ac7c171f1d.png)
+
+![image](https://user-images.githubusercontent.com/107618076/204297313-ed08ae92-b44b-4746-a554-a06205ae5e37.png)
+
+![image](https://user-images.githubusercontent.com/107618076/204297356-782c013d-6c8e-4542-b372-b3f6df7b7277.png)
+
+- After the bot respond you can now close the `main.py` script
+
+# I didn't get the badge?
+After doing all the steps you should wait 24 hours to get the badge
+After waiting 24 hours open this link https://discord.com/developers/active-developer to collect the badge
