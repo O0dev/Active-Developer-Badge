@@ -24,6 +24,7 @@ Get the active developer badge on discord!
 
  ![image](https://user-images.githubusercontent.com/107618076/204293898-3aca1af1-a0aa-4d5e-9ea0-bbbed54edd5d.png)
 
+- Before running the script you should install py-cord `pip install py-cord`
 - Run the `main.py` script then put the bot token **Do not turn it Off**
 
 - Now go to **OAuth2** > **URL Generator**
